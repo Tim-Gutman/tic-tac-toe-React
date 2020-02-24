@@ -1,2 +1,2 @@
 # tic-tac-toe-React
-Improvements for React tic-tac-toe tutorial
+Improvements for React tutorial tic-tac-toe game
